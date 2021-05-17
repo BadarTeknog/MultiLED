@@ -1,2 +1,2 @@
 # MultiLED 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2VAF92UUYZW5Y)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://link.dana.id/qr/dh6jn4w)
