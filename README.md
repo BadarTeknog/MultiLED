@@ -4,6 +4,6 @@
 # MultiLED
 
 
-library untuk mempermudah pembuatan running led atau led blink 
+library untuk mempermudah untuk mengontrol led pada arduino
 
 
