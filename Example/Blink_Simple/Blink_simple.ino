@@ -13,4 +13,5 @@ void setup() {
 }
 void loop() {
 led.Blink(PIN,1000);//jeda 1000ms
+//M_Blink(PIN,1000);// millis();
 }
