@@ -9,7 +9,7 @@ https://github.com/BadarTeknog/MultiLED
 */
 MultiLED led;
 void setup() {
-    led.OUT(PIN);//pin 13 dijadikan output
+    led.OUT(PIN);//pin 13 dijadikan Output
 }
 void loop() {
 led.Blink(PIN,1000);//jeda 1000ms
