@@ -1,5 +1,6 @@
 #ifndef _MultiLED_H_
 #define _MultiLED_H_
+#define MultiLED_Version 0.1.0
 #include <Arduino.h> 
 /*
 =============================================
