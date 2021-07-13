@@ -4,7 +4,7 @@
 # MultiLED
 
 
-library untuk mempermudah untuk mengontrol led pada arduino
+library untuk mempermudah untuk mengontrol led pada arduino khususnya untuk mempermudah membuat Running LED
 
 ## Sosial media Badar Teknog
 
