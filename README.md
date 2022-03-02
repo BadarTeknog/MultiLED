@@ -10,8 +10,7 @@ library untuk mempermudah untuk mengontrol led pada arduino khususnya untuk memp
 
 
 - [YouTube](https://youtube.com/badarteknog)
-- [Website](https://www.badarteknog.site/)
-- [WhatsApp](https://chat.whatsapp.com/I6U3KmrqnQfKv9JLi29ZmO)
+- [Website](https://www.badarteknog.com)
 - [Instagram](https://instagram.com/badarteknog)
 - [Online Shop](https://shopee.co.id/badar_teknog)
 
