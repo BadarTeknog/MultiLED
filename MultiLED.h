@@ -1,7 +1,7 @@
-#ifndef _MultiLED_H_
-#define _MultiLED_H_
+#ifndef _MultiLED_h
+#define _MultiLED_h
 #define MultiLED_Version "0.1.0"
-#include <Arduino.h> 
+#include "Arduino.h"
 /*
 =============================================
 MultiLED by "Badar Teknog"
@@ -10,7 +10,7 @@ https://github.com/BadarTeknog/MultiLED
 =============================================
 */
 //class LED{public:LED();~LED();}
-class MultiLED{ public: 
+class MultiLED{ public:
 MultiLED();~MultiLED(); 
 void OUT(char PIN);        
 void Clear();            

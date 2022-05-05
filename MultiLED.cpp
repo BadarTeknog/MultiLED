@@ -1,4 +1,5 @@
 #include "MultiLED.h"
+#include "Arduino.h"
 unsigned long MLS1,MLS2;
 /*
 =============================================
