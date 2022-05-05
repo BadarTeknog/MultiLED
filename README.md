@@ -15,7 +15,5 @@ library untuk mempermudah untuk mengontrol led pada arduino khususnya untuk memp
 - [Instagram](https://instagram.com/badarteknog)
 - [Online Shop](https://shopee.co.id/badar_teknog)
 
-# Beli beberapa modul di rekomendasikan Badar Teknog
-
-## Arduino Uno R3
+# But projek rancanganmu dengan kmi
 [![](https://cf.shopee.co.id/file/ce1942e9aba79bdd84a9098dbcace3ca)](https://shpe.ee/L8EppwLD6)
